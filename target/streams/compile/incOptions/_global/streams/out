@@ -1,0 +1,82 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/raks/Documents/Northeastern/CSYE7200/AirTrafficLandingAnalytics/target/scala-2.13/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/raks/Documents/Northeastern/CSYE7200/AirTrafficLandingAnalytics/target/scala-2.13/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TableParserSparkExample$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ProcessorProtocol.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ProcessorProtocol$ProcessRecords.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WriterProtocol$WriteForecasts$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RecordKeeper$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Formats.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FetcherProtocol$RecordsFetched.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WriterProtocol$WriteForecasts.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KeeperProtocol$Command.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ForecastService$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FetcherProtocol$StartFetch.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ForecastProtocol$ComputeForecasts.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ForecastProtocol$ComputeForecasts$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ForecastProtocol$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BaselineCalculator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Formats$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LandingRow.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Run.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ProcessorProtocol$AggregatesComputed$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LandingFetcher$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Guardian$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KeeperProtocol$PrintSummary$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ProcessorProtocol$Command.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RecordKeeper.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LandingReader$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ForecastService$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WriterProtocol$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LandingProcessor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ProcessorProtocol$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BaselineCalculator$MonthlyAggregate$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TableParserSparkExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ProcessorProtocol$ProcessRecords$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LandingRecord$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FetcherProtocol$Command.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FetcherProtocol.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LandingProcessor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ProcessorProtocol$AggregatesComputed.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LandingTableParser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ForecastProtocol.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BaselineCalculator$MonthlyAggregate.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WriterProtocol$Command.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GuardianProtocol.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KeeperProtocol$AnomalyDetected$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KeeperProtocol.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GuardianProtocol$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GuardianProtocol$Command.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KeeperProtocol$AnomalyDetected.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CsvWriter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FetcherProtocol$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ForecastService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ForecastProtocol$ForecastsReady.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LandingRecord.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ForecastService$AirlineForecast.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LandingFetcher.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ForecastProtocol$ForecastsReady$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LandingRow$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ForecastService$AirlineForecast$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TableParserSparkExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WriterProtocol.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BaselineCalculator$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BaselineCalculator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LandingRecommender.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FetcherProtocol$RecordsFetched$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LandingTableParser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Run$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GuardianProtocol$Start$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LandingReader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FetcherProtocol$StartFetch$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KeeperProtocol$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Guardian.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CsvWriter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ForecastService$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ForecastProtocol$Command.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LandingRecommender$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/raks/Documents/Northeastern/CSYE7200/AirTrafficLandingAnalytics/target/scala-2.13/classes.bak[0m

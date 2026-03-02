@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(runMain air.app.TableParserSparkExample, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / runMain[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mdownloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.17/scala-compiler-2.13.17.pom[0m
+[0m[[0m[0minfo[0m] [0m[0mdownloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.17/scala-compiler-2.13.17.pom[0m
+[0m[[0m[0minfo[0m] [0m[0mdownloading https://repo1.maven.org/maven2/org/jline/jline/3.29.0/jline-3.29.0.pom[0m
+[0m[[0m[0minfo[0m] [0m[0mdownloading https://repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils/4.16/java-diff-utils-4.16.pom[0m
+[0m[[0m[0minfo[0m] [0m[0mdownloaded https://repo1.maven.org/maven2/org/jline/jline/3.29.0/jline-3.29.0.pom[0m
+[0m[[0m[0minfo[0m] [0m[0mdownloaded https://repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils/4.16/java-diff-utils-4.16.pom[0m
+[0m[[0m[0minfo[0m] [0m[0mdownloading https://repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils-parent/4.16/java-diff-utils-parent-4.16.pom[0m
+[0m[[0m[0minfo[0m] [0m[0mdownloaded https://repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils-parent/4.16/java-diff-utils-parent-4.16.pom[0m
+[0m[[0m[0minfo[0m] [0m[0mdownloading https://repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils/4.16/java-diff-utils-4.16.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mdownloading https://repo1.maven.org/maven2/org/jline/jline/3.29.0/jline-3.29.0-jdk8.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mdownloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.17/scala-compiler-2.13.17.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mdownloaded https://repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils/4.16/java-diff-utils-4.16.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mdownloaded https://repo1.maven.org/maven2/org/jline/jline/3.29.0/jline-3.29.0-jdk8.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mdownloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.17/scala-compiler-2.13.17.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 20 Scala sources to /Users/raks/Documents/Northeastern/CSYE7200/AirTrafficLandingAnalytics/target/scala-2.13/classes ...[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/raks/Documents/Northeastern/CSYE7200/AirTrafficLandingAnalytics/src/main/scala/air/service/LandingTableParser.scala:46:7: The method `apply` is inserted. The auto insertion will be deprecated, please write `LandingRow.apply` explicitly.[0m
+[0m[[0m[33mwarn[0m] [0m[0m      LandingRow,                           // constructor[0m
+[0m[[0m[33mwarn[0m] [0m[0m      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[0minfo[0m] [0m[0mdone compiling[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 8 s, completed Mar 1, 2026, 6:01:10 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
